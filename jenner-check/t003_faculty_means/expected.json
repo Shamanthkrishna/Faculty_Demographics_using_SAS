@@ -1,0 +1,20 @@
+{
+  "_captured_at": "2026-07-28T00:12:25.774515Z",
+  "_captured_run_id": "r_23104a32b62d406badf18376ca430b54",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Wrote masterdata (20 rows, 13 columns).",
+    "NOTE: PROC MEANS statement used.",
+    "NOTE: Output dataset dept_avg_exp has 6 observations and 4 variables.",
+    "NOTE: PROC PRINT completed: 5 observations printed, 2 variables"
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

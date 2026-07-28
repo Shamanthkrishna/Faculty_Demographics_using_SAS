@@ -1,0 +1,34 @@
+                                                   The FREQ Procedure
+
+Table of Department by Qualification
+
+Department                              |        PG |       PHD |      Total
+----------------------------------------+-----------+-----------+-----------
+Biotechnology Engineering               |         2 |         2 |          4
+----------------------------------------+-----------+-----------+-----------
+Civil Engineering                       |         1 |         3 |          4
+----------------------------------------+-----------+-----------+-----------
+Computer Science Engineering            |         1 |         3 |          4
+----------------------------------------+-----------+-----------+-----------
+Electronics & Communication Engineering |         2 |         2 |          4
+----------------------------------------+-----------+-----------+-----------
+Mechanical Engineering                  |         2 |         2 |          4
+----------------------------------------+-----------+-----------+-----------
+Total                                   |         8 |        12 |         20
+
+                                      Table 4. Department wise Qualification Count
+
+
+                             Department  Qualification  Number of Faculties
+---------------------------------------  -------------  -------------------
+Biotechnology Engineering                PG                               2
+Biotechnology Engineering                PHD                              2
+Civil Engineering                        PG                               1
+Civil Engineering                        PHD                              3
+Computer Science Engineering             PG                               1
+Computer Science Engineering             PHD                              3
+Electronics & Communication Engineering  PG                               2
+Electronics & Communication Engineering  PHD                              2
+Mechanical Engineering                   PG                               2
+Mechanical Engineering                   PHD                              2
+

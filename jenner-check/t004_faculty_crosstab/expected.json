@@ -1,0 +1,19 @@
+{
+  "_captured_at": "2026-07-28T00:13:08.593446Z",
+  "_captured_run_id": "r_d2746f91b6f74f06bd7075cab89f6acb",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: PROC FREQ statement used.",
+    "NOTE: Output dataset qualitable has 10 observations and 3 variables.",
+    "NOTE: PROC PRINT completed: 10 observations printed, 3 variables"
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

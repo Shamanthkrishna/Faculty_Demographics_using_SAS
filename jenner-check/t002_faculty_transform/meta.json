@@ -1,0 +1,7 @@
+{
+  "bundle": "t002_faculty_transform",
+  "source_file": "BSAS Minor Project.sas",
+  "source_blob_sha": "1a5ff84613c91911a7e825a13125c69ba555b5e1",
+  "source_commit": "adfba94b2f333606fdfae0b37925e56845f2c3d4",
+  "notes": "DATA-step transform chain from the primary script: rank assignment, CATX Name+Surname concat, Dr./Mr./Ms. title logic by Qualification+Gender, and Dept->Department full-form mapping; PROC PRINT shows the derived columns. Age (intck+today) intentionally left out to keep the snapshot date-stable. Mock 20-row data substitutes the xlsx import."
+}

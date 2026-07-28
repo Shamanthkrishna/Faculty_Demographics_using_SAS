@@ -1,0 +1,38 @@
+                                                   The FREQ Procedure
+
+Dept    Frequency
+------------------
+BTE             4
+CSE             4
+CVE             4
+ECE             4
+MEC             4
+
+Cadre                  Frequency
+---------------------------------
+Assistant Professor            8
+Associate Professor            7
+PROFESSOR                      1
+Professor                      4
+
+Qualification    Frequency
+---------------------------
+PG                       8
+PHD                     12
+
+Residence    Frequency
+-----------------------
+Karkala              4
+Kundapur             2
+Mangalore            3
+Nitte                5
+Padubidre            3
+Udupi                3
+                                                   The FREQ Procedure
+
+                                                 Cumulative    Cumulative
+Cadre                  Frequency    Percent     Frequency      Percent
+----------------------------------------------------------------------------
+Assistant Professor            8     40.00            8        40.00
+Associate Professor            7     35.00           15        75.00
+Professor                      5     25.00           20       100.00
