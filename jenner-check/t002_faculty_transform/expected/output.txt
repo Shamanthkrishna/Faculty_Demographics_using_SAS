@@ -1,0 +1,26 @@
+                                  Faculty names, rank and department (derived columns)
+
+
+Staff_Id                                                Name                Cadre  rank                                          Department
+--------  --------------------------------------------------  -------------------  ----  --------------------------------------------------
+NM01      Dr. Rajesh Patel                                    Associate Professor     2  Biotechnology Engineering
+NM02      Dr. Kunal Sharma                                    Professor               1  Biotechnology Engineering
+NM03      Mr. Suraj Mukherjee                                 Assistant Professor     3  Biotechnology Engineering
+NM04      Dr. Aisha Khan                                      Professor               1  Computer Science Engineering
+NM05      Ms. Anushka Rao                                     Assistant Professor     3  Computer Science Engineering
+NM06      Dr. Isha Nair                                       Associate Professor     2  Computer Science Engineering
+NM07      Dr. Deepak Menon                                    Professor               1  Electronics & Communication Engineering
+NM08      Ms. Suman Iyer                                      Assistant Professor     3  Electronics & Communication Engineering
+NM09      Dr. Darshan Shetty                                  Associate Professor     2  Electronics & Communication Engineering
+NM10      Mr. Tarun Gupta                                     Assistant Professor     3  Civil Engineering
+NM11      Dr. Nandini Reddy                                   Associate Professor     2  Civil Engineering
+NM12      Dr. Bhuvan Joshi                                    Professor               1  Civil Engineering
+NM13      Ms. Kavita Desai                                    Assistant Professor     3  Mechanical Engineering
+NM14      Dr. Shantanu Bhat                                   Associate Professor     2  Mechanical Engineering
+NM15      Dr. Nikhil Pai                                      Professor               1  Mechanical Engineering
+NM16      Ms. Pallavi Kamath                                  Assistant Professor     3  Biotechnology Engineering
+NM17      Dr. Rishi Hegde                                     Associate Professor     2  Computer Science Engineering
+NM18      Mr. Sanjay Prabhu                                   Assistant Professor     3  Electronics & Communication Engineering
+NM19      Dr. Avantika Bhandary                               Associate Professor     2  Civil Engineering
+NM20      Ms. Smita Acharya                                   Assistant Professor     3  Mechanical Engineering
+

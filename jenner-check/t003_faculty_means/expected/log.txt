@@ -1,0 +1,26 @@
+NOTE: Option OBS changed to 100.
+NOTE: Option VALIDVARNAME changed to V7.
+NOTE: DATA rawdata
+
+NOTE: Processing inline DATALINES (20 lines)
+
+NOTE: Read 20 rows from DATALINES.
+NOTE: Wrote rawdata (20 rows, 13 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA masterdata
+
+
+NOTE: Read 20 rows from rawdata.
+NOTE: Wrote masterdata (20 rows, 13 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC MEANS
+NOTE: Output dataset dept_avg_exp has 6 observations and 4 variables.
+NOTE: PROC MEANS statement used.
+NOTE: Option TITLE changed to Table 3. Average Experience of faculty department wise.
+NOTE: PROC PRINT data=dept_avg_exp
+
+NOTE: PROC PRINT completed: 5 observations printed, 2 variables

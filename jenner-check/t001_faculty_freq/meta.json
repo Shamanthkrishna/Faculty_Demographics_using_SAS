@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_faculty_freq",
+  "source_file": "BSAS Minor Project.sas",
+  "source_blob_sha": "1a5ff84613c91911a7e825a13125c69ba555b5e1",
+  "source_commit": "adfba94b2f333606fdfae0b37925e56845f2c3d4",
+  "notes": "PROC FREQ on Dept/Cadre/Qualification/Residence + the PROFESSOR->Professor dedup DATA step; before/after freq shows the collapse (author's documented cleanup). Self-contained: 20-row mock dataset inlined so the script runs standalone via /v1/quick; substitutes the external xlsx PROC IMPORT (exact column shape)."
+}
